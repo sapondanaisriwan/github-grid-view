@@ -19,6 +19,7 @@ To start development, run:
 $ npm run dev
 ```
 Alternatively, you can click the "Run" button at the bottom left corner of your VS Code.
+
 ![](https://i.imgur.com/r6Tj70M.png)
 
 ## Building
@@ -28,6 +29,7 @@ To build the project, use:
 $ npm run build
 ```
 Alternatively, you can click the "Run" button at the bottom left corner of your VS Code.
+
 ![](https://i.imgur.com/r6Tj70M.png)
 
 ## Loading Extension
