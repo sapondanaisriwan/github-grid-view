@@ -50,7 +50,7 @@ For instructions on how to upgrade, visit your browser's help resources:
 
 ## 🧑‍💻 Contributing
 
-Any contribution is greatly appreciated.
+Any contribution is greatly appreciated, please look [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## 💰 Support me
 
