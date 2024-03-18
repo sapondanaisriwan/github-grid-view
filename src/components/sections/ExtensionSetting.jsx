@@ -19,7 +19,7 @@ function ExtensionSetting() {
           <ToggleSwitch label="Extension Enabled" storageKey={KeyExtensionStatus} color="success" />
           <ThemeSwitcher />
 
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://chromewebstore.google.com/detail/grid-view-for-github/ecmbjjghcphgnpalajeabaedhfkpghdn" target="_blank" rel="noopener noreferrer">
             <Button fullWidth color="" className="items-center justify-between p-3 hover:bg-content2">
               <span className="text-medium">Rate the extension</span>
               <RiExternalLinkLine size={16} />
