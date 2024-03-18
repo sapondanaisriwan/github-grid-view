@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Grid View for GitHub",
   "description": "Turning the repositories into a grid view for GitHub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "permissions": ["storage"],
   "icons": {
     "16": "assets/GitHubGridView16.png",
