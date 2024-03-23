@@ -20,7 +20,7 @@ $ npm run dev
 ```
 Alternatively, you can click the "Run" button at the bottom left corner of your VS Code.
 
-![](https://i.imgur.com/r6Tj70M.png)
+![](https://i.imgur.com/rsyI5yt.png)
 
 ## Building
 
@@ -30,7 +30,7 @@ $ npm run build
 ```
 Alternatively, you can click the "Run" button at the bottom left corner of your VS Code.
 
-![](https://i.imgur.com/r6Tj70M.png)
+![](https://i.imgur.com/rsyI5yt.png)
 
 ## Loading Extension
 
@@ -38,6 +38,6 @@ Alternatively, you can click the "Run" button at the bottom left corner of your 
 1. Open `chrome://extensions` or `edge://extensions`  in your browser.
 2. Toggle on the "Developer mode".
 3. Click on "Load unpacked" button.
-4. Select the folder `github-grid-view/dist`
+4. Select the folder `github-grid-view/build`
 
 Feel free to reach out if you have any questions or need further assistance. We appreciate your contributions! 🚀
