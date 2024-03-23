@@ -2,7 +2,7 @@
 
 # Grid View for GitHub
 
-The chrome extension that turns repositories into a grid view.
+A chrome extension that turns repositories into a grid view.
 
 [![Star][star-badge]][star]
 [![Forks][fork-badge]][members]
@@ -29,7 +29,6 @@ The chrome extension that turns repositories into a grid view.
 [b1]: https://i.imgur.com/EYag3Ve.png
 [b2]: https://i.imgur.com/QOFXWD3.png
 [b3]: https://i.imgur.com/w1iRtFw.png
-
 [a1]: https://i.imgur.com/Iqa9N6F.png
 [a2]: https://i.imgur.com/xXdKM5f.png
 [a3]: https://i.imgur.com/vqZO78X.png
@@ -41,6 +40,7 @@ The chrome extension that turns repositories into a grid view.
 [extension]: https://chromewebstore.google.com/
 
 ## Browser Support
+
 You need the most up-to-date version of your web browser. For the best experience, update your browser
 
 For instructions on how to upgrade, visit your browser's help resources:
@@ -50,7 +50,7 @@ For instructions on how to upgrade, visit your browser's help resources:
 
 ## 🧑‍💻 Contributing
 
-Any contribution is greatly appreciated, please look [CONTRIBUTING.md](./CONTRIBUTING.md)
+Any contribution is greatly appreciated, please take a look [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## 💰 Support me
 

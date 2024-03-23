@@ -1,9 +1,8 @@
-import Page from './page/Page';
 import { NextUIProvider } from '@nextui-org/react';
 import { ThemeProvider as NextThemesProvider } from 'next-themes';
-import './index.css';
+import Page from './page/Page';
 
-function App() {
+const App = () => {
   return (
     <NextUIProvider className="w-full min-w-[300px] max-w-[500px]">
       <NextThemesProvider attribute="class" defaultTheme="dark">
@@ -11,6 +10,5 @@ function App() {
       </NextThemesProvider>
     </NextUIProvider>
   );
-}
-
+};
 export default App;

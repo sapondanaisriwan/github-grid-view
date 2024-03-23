@@ -9,8 +9,12 @@ export const injectStyle = (id, css) => {
   const style = document.createElement('style');
   style.type = 'text/css';
   style.id = targetId;
-  style.textContent = css.trim().split('\n').join('');
+  style.textContent = css;
 
-  // add the style node to the document
+  // add the style node to the webpage
+  if (document.head) {
+    document.head.appendChild(style);
+    return;
+  }
   document.documentElement.appendChild(style);
 };

@@ -1,30 +1,30 @@
 // Popover
-export const KeyExtensionStatus = "extensionStatus";
-export const KeyDarkTheme = "darkTheme"
+export const KeyExtensionStatus = 'extensionStatus';
+export const KeyDarkTheme = 'darkTheme';
 
 // Repositories Tab
-export const KeyRepoGridView = "repoGridView"
-export const KeyRepoShowRepoIcon = "repoShowRepoIcon";
-export const KeyRepoTruncateDesc = "repoTruncateDesc";
-export const KeyRepoShowNoDesc = "repoShowNoDesc";
-export const KeyRepoHideForked = "repoHideForked";
-export const KeyRepoHideTopics = "repoHideTopics";
-export const KeyRepoHideHelpWanted = "repoHideHelpWanted";
-export const KeyRepoHideLicense = "repoHideLicense";
+export const KeyRepoGridView = 'repoGridView';
+export const KeyRepoShowRepoIcon = 'repoShowRepoIcon';
+export const KeyRepoTruncateDesc = 'repoTruncateDesc';
+export const KeyRepoShowNoDesc = 'repoShowNoDesc';
+export const KeyRepoHideForked = 'repoHideForked';
+export const KeyRepoHideTopics = 'repoHideTopics';
+export const KeyRepoHideHelpWanted = 'repoHideHelpWanted';
+export const KeyRepoHideLicense = 'repoHideLicense';
 
 // Star Tab
-export const KeyStarGridView = "starGridView"
-export const KeyStarTruncateDesc = "starTruncateDesc"
-export const KeyStarShowRepoIcon = "starShowRepoIcon"
-export const KeyStarShowNoDesc = "starShowNoDesc";
-export const KeyStarHideSponsors = "starHideSponsors";
-export const KeyStarHideAuthor = "starHideAuthor";
+export const KeyStarGridView = 'starGridView';
+export const KeyStarTruncateDesc = 'starTruncateDesc';
+export const KeyStarShowRepoIcon = 'starShowRepoIcon';
+export const KeyStarShowNoDesc = 'starShowNoDesc';
+export const KeyStarHideSponsors = 'starHideSponsors';
+export const KeyStarHideAuthor = 'starHideAuthor';
 
 // Search Tab
-export const KeySearchGridView = "searchGridView"
-export const KeySearchHideSponsors = "searchHideSponsors";
-export const KeySearchHideTopics = "searchHideTopics";
-export const KeySearchTruncateDesc = "searchTruncateDesc";
+export const KeySearchGridView = 'searchGridView';
+export const KeySearchHideSponsors = 'searchHideSponsors';
+export const KeySearchHideTopics = 'searchHideTopics';
+export const KeySearchTruncateDesc = 'searchTruncateDesc';
 
 export const settingKeys = [
   KeyExtensionStatus,
@@ -50,7 +50,6 @@ export const settingKeys = [
   KeySearchHideSponsors,
   KeySearchHideTopics,
   KeySearchTruncateDesc,
-  
 ];
 
 export const defaultSetting = {

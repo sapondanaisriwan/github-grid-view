@@ -5,7 +5,7 @@ Thank you for considering contributing to our project! Your contributions help m
 ## Quick Start
 1. **Clone the project**:
 ```bash
-git clone https://github.com/sapondanaisriwan/github-grid-view.git
+$ git clone https://github.com/sapondanaisriwan/github-grid-view.git
 ```
 2. **Install dependencies**:
 ```bash

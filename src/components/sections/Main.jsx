@@ -22,7 +22,8 @@ function Main() {
         classNames={{
           tab: 'h-14',
           tabList: 'p-0 bg-content1 dark:bg-content2',
-          panel: 'max-h-[512px] px-4 py-2 overflow-auto bg-content2 dark:bg-background',
+          panel:
+            'max-h-[512px] px-4 py-2 overflow-auto bg-content2 dark:bg-background',
         }}
       >
         <Tab

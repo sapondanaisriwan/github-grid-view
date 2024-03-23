@@ -1,4 +1,4 @@
-import { defaultSetting } from '../../storage-keys';
+import { defaultSetting } from '../storage-keys';
 
 export const setStorage = (kv) => {
   return new Promise((resolve, reject) => {

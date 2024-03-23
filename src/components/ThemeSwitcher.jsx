@@ -2,7 +2,7 @@ import ToggleSwitch from './ui/ToggleSwitch';
 import { useTheme } from 'next-themes';
 import { useEffect, useState } from 'react';
 import { RiMoonFill, RiSunFill } from 'react-icons/ri';
-import { KeyDarkTheme } from '../../storage-keys';
+import { KeyDarkTheme } from '../storage-keys';
 
 export function ThemeSwitcher() {
   const [mounted, setMounted] = useState(false);
